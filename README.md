@@ -4,7 +4,8 @@
 * showcases graph manipulation and plotting with `networkx` and `python-igraph`,
 * uses [`GEM`](https://github.com/palash1992/GEM) package for graph-embeddings,
 * introduces basics of `pytorch` for defining a (graph) neural network,
-* follows the discussion in http://tkipf.github.io/graph-convolutional-networks/ to use a neural network to propagate labels through the canonical Zachary's karate network.
+* follows the discussion in http://tkipf.github.io/graph-convolutional-networks/ to use a neural network to propagate labels through the canonical Zachary's karate network,
+* lists useful resources for further development and study.
 
 The notebook for exported as an [`html`](https://github.com/olszewskip/KarateGraph_and_NeuralNets/blob/master/Basic%20introduction%20to%20graphs%2C%20neural%20networks%20and%20graph%20neural%20networks.html) for ease of viewing but You are encouraged to run the notebook locally.
 
